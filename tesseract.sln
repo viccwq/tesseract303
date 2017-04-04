@@ -3,7 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C4321F48-0C8B-42AF-AB6A-B9AD70AC7A24}"
 	ProjectSection(SolutionItems) = preProject
-		build.proj = build.proj
 		include\leptonica_versionnumbers.props = include\leptonica_versionnumbers.props
 		README.md = README.md
 	EndProjectSection
